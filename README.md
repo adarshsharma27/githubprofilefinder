@@ -2,5 +2,5 @@
 ---
 Github Profile Search App 
 ---
-> ![Website](images/Github Profile.png)
+> ![Website](images/githubprofileapp.png)
 > ### [LiveWebsite]()
